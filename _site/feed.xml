@@ -4,10 +4,10 @@
     <title>Tanzeem Aktar</title>
     <description>Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
 </description>
-    <link>https://tanzeemaaktar.github.io/academic-portfolio/</link>
-    <atom:link href="https://tanzeemaaktar.github.io/academic-portfolio/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Oct 2021 15:08:08 +0600</pubDate>
-    <lastBuildDate>Fri, 08 Oct 2021 15:08:08 +0600</lastBuildDate>
+    <link>https://tanzeemaaktar.github.io/tanzeemaaktar.github.io/</link>
+    <atom:link href="https://tanzeemaaktar.github.io/tanzeemaaktar.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 08 Oct 2021 15:22:58 +0600</pubDate>
+    <lastBuildDate>Fri, 08 Oct 2021 15:22:58 +0600</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -85,8 +85,8 @@ J_{TAR}=\beta L_2\left(\textbf{D}_l^t\odot\left(h_l^t - h_l^{t-1}\right)\right)\
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 10 Jan 2018 21:10:00 +0600</pubDate>
-        <link>https://tanzeemaaktar.github.io/academic-portfolio/blog/2018/01/post-1</link>
-        <guid isPermaLink="true">https://tanzeemaaktar.github.io/academic-portfolio/blog/2018/01/post-1</guid>
+        <link>https://tanzeemaaktar.github.io/tanzeemaaktar.github.io/blog/2018/01/post-1</link>
+        <guid isPermaLink="true">https://tanzeemaaktar.github.io/tanzeemaaktar.github.io/blog/2018/01/post-1</guid>
         
         
         <category>rnn</category>
@@ -143,8 +143,8 @@ Gradients clipped at &lt;code class=&quot;language-plaintext highlighter-rouge&q
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 10 Jan 2018 21:01:00 +0600</pubDate>
-        <link>https://tanzeemaaktar.github.io/academic-portfolio/blog/2018/01/post-2</link>
-        <guid isPermaLink="true">https://tanzeemaaktar.github.io/academic-portfolio/blog/2018/01/post-2</guid>
+        <link>https://tanzeemaaktar.github.io/tanzeemaaktar.github.io/blog/2018/01/post-2</link>
+        <guid isPermaLink="true">https://tanzeemaaktar.github.io/tanzeemaaktar.github.io/blog/2018/01/post-2</guid>
         
         
         <category>rnn</category>
