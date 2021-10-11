@@ -17,8 +17,6 @@ Describe your education here.
 <div>
 <p>CGPA: 3.87/4.00, Class position-2nd.</p>
 
-</li>
-</ul>
 <a href="/research"><div 
 class="color-button">Dissertation</div></a>
 <a href="https://www.eastdelta.edu.bd/"><div 
