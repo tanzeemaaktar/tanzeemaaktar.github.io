@@ -34,7 +34,7 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 
 <div style="margin:20px 0">
 	<div style="display:inline-block; width: 35%; margin-right:15px">
-		<img src="images/profile.jpg" alt="research" />
+		<img src="https://i.imgur.com/hI63iYM.jpg" alt="research" />
 		<p style="text-align:center">Caption goes here</p>
 	</div>
 	<div style="display:inline-block; width:55%; text-align:justify; vertical-align:top;">

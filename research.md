@@ -53,7 +53,6 @@ title: Research
 		<li>Policy Recommendations: Reducing technological gap between host and foreign countries, promote export-oriented economy, develop infrastructure and human capital of the recipient countries</li>
 	</ul>
 	<a href=""><div class="color-button">report</div></a>
-</ul>
 
 <br>
 <h1>Undergraduate Research</h1>
