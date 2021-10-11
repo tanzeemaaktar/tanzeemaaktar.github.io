@@ -34,15 +34,11 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 
 <div style="margin:20px 0">
 	<div style="display:inline-block; width: 35%; margin-right:15px">
-		<img src="https://i.imgur.com/hI63iYM.jpg" alt="research" />
+		<img src="images/profile.jpg" alt="research" />
 		<p style="text-align:center">Caption goes here</p>
 	</div>
-	<div style="display:inline-block; width:40%; text-align:justify; vertical-align:top;">
+	<div style="display:inline-block; width:55%; text-align:justify; vertical-align:top;">
 		<b>Project title #4</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br><br>
-		<ul>
-			<li>point 1 lore ipsum dolor sit</li>
-			<li>point 2 lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet</li>
-		</ul>
 		<a href=""><div class="color-button">paper</div></a>
 		<a href=""><div class="color-button">code</div></a>
 	</div>
