@@ -8,8 +8,7 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 
 <div style="margin:20px 0">
 	<div style="display:inline-block; width:40%; text-align:justify; vertical-align:top;">
-		<b>Performance measurements of insurance companies in 2008</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br><br>
-		<ul>
+		<b>Performance measurements of insurance companies in 2008</b>
 			<li>Applied Data Envelopment Analysis (DEA) model using MATLAB to evaluate the relative efficiency of 25 property and casualty insurance companies (DMUs) in terms of total operating expenses, assets, debts, employee numbers, liabilities as inputs; market caps, net incomes, revenues, earnings per share as outputs</li>
 			<li>Improved the performances of 13 inefficient companies with DEA scores</li>
 		</ul>
@@ -23,13 +22,11 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 </div>
 
 <div style="margin:20px 0">
-	<b>Project title #2</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br><br>
+	<b>Factors Impacting Real GDP of Bangladesh: A Time Series Approach</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br><br>
 	<ul>
-		<li>point 1 lore ipsum dolor sit</li>
-		<li>point 2 lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet</li>
-	</ul>
-	<a href=""><div class="color-button">paper</div></a>
-	<a href=""><div class="color-button">code</div></a>
+		<li>Reported the findings of regression analysis to examine the impacts of CO2 emissions, fuel imports, infant mortality rate, real final consumption expenditure and gross savings on real GDP of Bangladesh for 1977-2011 using World Bank data</li>
+		
+	
 </div>
 
 <div style="margin:20px 0">
@@ -38,14 +35,18 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 		<p style="text-align:center">Caption goes here</p>
 	</div>
 	<div style="display:inline-block; width:55%; text-align:justify; vertical-align:top;">
-		<b>Project title #4</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br><br>
-		<a href=""><div class="color-button">paper</div></a>
+		<b>From Mangrove to Empowerment: Reinforcing SDG5A Gender Equality</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br><br>
+		<a href=""><div 
+		class="color-button">paper</div></a>
 		<a href=""><div class="color-button">code</div></a>
 	</div>
 </div>
 
 <div>
-	<b>Project title #4</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
+	<b> Working Pregnant Women,
+	British Council and The Hunger Project
+Team Leader
+</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
 	<a href=""><div class="color-button">paper</div></a>
 	<a href=""><div class="color-button">code</div></a>
 </div>
