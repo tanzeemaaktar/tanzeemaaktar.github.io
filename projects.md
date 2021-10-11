@@ -8,12 +8,12 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 
 <div style="margin:20px 0">
 	<div style="display:inline-block; width:40%; text-align:justify; vertical-align:top;">
-		<b>Project title #1</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br><br>
+		<b>Performance measurements of insurance companies in 2008</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br><br>
 		<ul>
-			<li>point 1 lore ipsum dolor sit</li>
-			<li>point 2 lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet</li>
+			<li>Applied Data Envelopment Analysis (DEA) model using MATLAB to evaluate the relative efficiency of 25 property and casualty insurance companies (DMUs) in terms of total operating expenses, assets, debts, employee numbers, liabilities as inputs; market caps, net incomes, revenues, earnings per share as outputs</li>
+			<li>Improved the performances of 13 inefficient companies with DEA scores</li>
 		</ul>
-		<a href=""><div class="color-button">paper</div></a>
+		<a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzdWxhZ25hbW9va2VyamVlfGd4OjY0OWIzZTEwM2RiOTk2ZDE"><div class="color-button">paper</div></a>
 		<a href=""><div class="color-button">code</div></a>
 	</div>
 	<div style="display:inline-block; width: 55%; margin-left:15px">
