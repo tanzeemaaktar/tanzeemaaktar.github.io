@@ -8,7 +8,8 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 
 <div style="margin:20px 0">
 	<div style="display:inline-block; width:40%; text-align:justify; vertical-align:top;">
-		<b>Performance measurements of insurance companies in 2008</b>
+		<b>Performance measurements of insurance companies in 2008</b><br><br>
+		<ul>
 			<li>Applied Data Envelopment Analysis (DEA) model using MATLAB to evaluate the relative efficiency of 25 property and casualty insurance companies (DMUs) in terms of total operating expenses, assets, debts, employee numbers, liabilities as inputs; market caps, net incomes, revenues, earnings per share as outputs</li>
 			<li>Improved the performances of 13 inefficient companies with DEA scores</li>
 		</ul>
