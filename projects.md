@@ -25,8 +25,7 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 	<b>Factors Impacting Real GDP of Bangladesh: A Time Series Approach</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br><br>
 	<ul>
 		<li>Reported the findings of regression analysis to examine the impacts of CO2 emissions, fuel imports, infant mortality rate, real final consumption expenditure and gross savings on real GDP of Bangladesh for 1977-2011 using World Bank data</li>
-		
-	
+	</ul>
 </div>
 
 <div style="margin:20px 0">
@@ -36,6 +35,9 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 	</div>
 	<div style="display:inline-block; width:55%; text-align:justify; vertical-align:top;">
 		<b>From Mangrove to Empowerment: Reinforcing SDG5A Gender Equality</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br><br>
+		<ul>
+			<li>Reported the findings of regression analysis to examine the impacts of CO2 emissions, fuel imports, infant mortality rate, real final consumption expenditure and gross savings on real GDP of Bangladesh for 1977-2011 using World Bank data</li>
+		</ul>
 		<a href=""><div 
 		class="color-button">paper</div></a>
 		<a href=""><div class="color-button">code</div></a>
@@ -44,9 +46,10 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 
 <div>
 	<b> Working Pregnant Women,
-	British Council and The Hunger Project
-Team Leader
-</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
+	British Council and The Hunger Project Team Leader</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
+	<ul>
+		<li>Reported the findings of regression analysis to examine the impacts of CO2 emissions, fuel imports, infant mortality rate, real final consumption expenditure and gross savings on real GDP of Bangladesh for 1977-2011 using World Bank data</li>
+	</ul>
 	<a href=""><div class="color-button">paper</div></a>
 	<a href=""><div class="color-button">code</div></a>
 </div>
