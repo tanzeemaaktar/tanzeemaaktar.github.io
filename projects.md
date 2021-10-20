@@ -4,7 +4,7 @@ permalink: /projects/
 title: Projects
 ---
 
-Here is a non-exhaustive list of my non-research projects. My research work can be found <a href="/research">here</a>. You can also check out my Github profile <a href="">here</a> for a complete list of my projects.
+
 
 <div style="margin:20px 0">
 	<div style="display:inline-block; width:40%; text-align:justify; vertical-align:top;">
@@ -37,7 +37,10 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 	<div style="display:inline-block; width:55%; text-align:justify; vertical-align:top;">
 		<b>From Mangrove to Empowerment: Reinforcing SDG5A Gender Equality</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br><br>
 		<ul>
-			<li>Reported the findings of regression analysis to examine the impacts of CO2 emissions, fuel imports, infant mortality rate, real final consumption expenditure and gross savings on real GDP of Bangladesh for 1977-2011 using World Bank data</li>
+			<li>Designed and introduced honey making project by utilizing existing Mangrove Forest to empower local people to stabilize the socio-economic conditions of local families</li>
+			<li>Collaborated with community leaders, governments and 3 other organizations to channel philanthropy</li>
+			<li>Presented the project proposal on behalf of 5 groupmates under Asia Pacific Youth Exchange Program at United Nations Development Program (UNDP) symposium</li>
+
 		</ul>
 		<a href=""><div 
 		class="color-button">paper</div></a>
@@ -46,10 +49,14 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 </div>
 
 <div>
-	<b> Working Pregnant Women,
-	British Council and The Hunger Project Team Leader</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
+	<b> Working Pregnant Women in Garments Sector
+	British Council and The Hunger Project</b>
 	<ul>
-		<li>Reported the findings of regression analysis to examine the impacts of CO2 emissions, fuel imports, infant mortality rate, real final consumption expenditure and gross savings on real GDP of Bangladesh for 1977-2011 using World Bank data</li>
+		<li>Detected scarce workplace facilities (e.g. no maternity leave, lack of childcare facilities, excessive working hours) by interviewing 100 garment workers and 5 supervisors</li>
+		<li>Signed a partnership between 3 garments factories and 2 maternal care hospitals to establish free maternal healthcare and stable jobs</li>
+		<li>Arranged 3 workshops for pregnant women and their husbands to enhance knowledge about their healthcare, necessary nutrition and labour distribution in families</li>
+		<li>Supervised 13 team members and provided technical support by arranging weekly team meetings to ensure logistics support for the workshop</li>
+
 	</ul>
 	<a href=""><div class="color-button">paper</div></a>
 	<a href=""><div class="color-button">code</div></a>
