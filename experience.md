@@ -12,7 +12,6 @@ title: Work Experience
 		<li>Courses: Fundamentals of Quantitative Reasoning, Mathematical Economics, Econometrics, Principles of Computer Programming, Introduction to Mathematics, Academic Reading and Writing.</li>
 		
 	
-</div>
 
 <div style="margin:20px 0">
 	<div style="display:inline-block; width:40%; text-align:justify; vertical-align:top;">
@@ -27,8 +26,8 @@ title: Work Experience
 			<li>Generated internal and external reports, concept notes for staff and donors</li>
 		</ul>
 		<a href="https://www.rescue.org/country/bangladesh"><div class="color-button">link</div></a>
-		<a href=""><div class="color-button">other link</div></a>
-	</div>
+		<a href=""><div 
+
 	<div style="display:inline-block; width: 55%; margin-left:15px">
 		<img src="https://i.imgur.com/CMdGERI.jpg" alt="research" />
 		<p style="text-align:center">Data Analysis</p>

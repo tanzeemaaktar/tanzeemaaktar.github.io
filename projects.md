@@ -14,16 +14,13 @@ title: Projects
 			<li>Improved the performances of 13 inefficient companies with DEA scores</li>
 		</ul>
 		<a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzdWxhZ25hbW9va2VyamVlfGd4OjY0OWIzZTEwM2RiOTk2ZDE"><div class="color-button">paper</div></a>
-		<a href=""><div class="color-button">code</div></a>
-	</div>
-	<div style="display:inline-block; width: 55%; margin-left:15px">
-		<img src="https://www.discoverphds.com/wp-content/uploads/elementor/thumbs/What-is-Research-Purpose-of-Research-pajsj9yo71ziyo8y0s59iolp2q1q8pl0tng770xmrs.png" alt="research" />
-		<p style="text-align:center">Caption goes here</p>
+		<a href=""><div 
+
 	</div>
 </div>
 
 <div style="margin:20px 0">
-	<b>Factors Impacting Real GDP of Bangladesh: A Time Series Approach</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br><br>
+	<b>Factors Impacting Real GDP of Bangladesh: A Time Series Approach</b>
 	<ul>
 		<li>Reported the findings of regression analysis to examine the impacts of CO2 emissions, fuel imports, infant mortality rate, real final consumption expenditure and gross savings on real GDP of Bangladesh for 1977-2011 using World Bank data</li>
 	</ul>
@@ -31,12 +28,11 @@ title: Projects
 
 <div style="margin:20px 0">
 	<div style="display:inline-block; width: 35%; margin-right:15px">
-		<img src="https://i.imgur.com/hI63iYM.jpg" alt="research" />
+		<img src="https://imgur.com/ThYA8lp" alt="research" />
 		<p style="text-align:center">Caption goes here</p>
 	</div>
 	<div style="display:inline-block; width:55%; text-align:justify; vertical-align:top;">
-		<b>From Mangrove to Empowerment: Reinforcing SDG5A Gender Equality</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br><br>
-		<ul>
+		<b>From Mangrove to Empowerment: Reinforcing SDG5A Gender Equality</b>: 
 			<li>Designed and introduced honey making project by utilizing existing Mangrove Forest to empower local people to stabilize the socio-economic conditions of local families</li>
 			<li>Collaborated with community leaders, governments and 3 other organizations to channel philanthropy</li>
 			<li>Presented the project proposal on behalf of 5 groupmates under Asia Pacific Youth Exchange Program at United Nations Development Program (UNDP) symposium</li>
@@ -44,8 +40,7 @@ title: Projects
 		</ul>
 		<a href=""><div 
 		class="color-button">paper</div></a>
-		<a href=""><div class="color-button">code</div></a>
-	</div>
+		<a href=""><div 
 </div>
 
 <div>
