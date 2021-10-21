@@ -55,9 +55,10 @@ Recipient of 91% IKEA Foundation scholarship</b></p>
 
 <b style="font-size:1.8em">Relevant Courses</b>
 <hr>
+<br>
 
 <b style="font-size:1.3em">Mathematics Courses</b>
-
+<br>
 Calculus I <b>&nbsp;&middot;&nbsp;</b> 
 Calculus II <b>&nbsp;&middot;&nbsp;</b> 
 Linear (Advanced) Algebra <b>&nbsp;&middot;&nbsp;</b> 
@@ -66,7 +67,7 @@ Mathematical Programming <b>&nbsp;&middot;&nbsp;</b>
 Probability and Statistics
 
 <b style="font-size:1.3em">Economics Courses</b>
-
+<br>
 Intermediate Micro <b>&nbsp;&middot;&nbsp;</b> 
 Intermediate Macro <b>&nbsp;&middot;&nbsp;</b> 
 Econometrics <b>&nbsp;&middot;&nbsp;</b> 
@@ -78,11 +79,11 @@ Business Analytics <b>&nbsp;&middot;&nbsp;</b>
 Financial Accounting
 
 <b style="font-size:1.3em">Development Courses</b>
-
+<br>
 Introduction to Development Studies <b>&nbsp;&middot;&nbsp;</b> Theories and Practices of Development <b>&nbsp;&middot;&nbsp;</b> Gender Equality and Women’s Empowerment in Asia
 
 <b style="font-size:1.3em">Policy Courses</b>
-
+<br>
 Financial Decision Making in Public Sector <b>&nbsp;&middot;&nbsp;</b> 
 Political Economy of Development <b>&nbsp;&middot;&nbsp;</b> 
 Dynamics of Public Policy Management <b>&nbsp;&middot;&nbsp;</b> 
