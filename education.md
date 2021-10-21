@@ -4,7 +4,7 @@ permalink: /education/
 title: Education
 ---
 
-<div style="line-height:1.2">
+<div style="line-height:1.2 !important">
     <div style="display:inline-block; width: 77%">
         <h2 style="font-weight:bold">East Delta University</h2>
         <h3 style="color:grey; font-weight:bold">Masters of Business Administration in Public Policy and Leadership</h3>
@@ -15,12 +15,11 @@ title: Education
     </div>
 </div>
 <p><b>CGPA: 3.87/4.00, Class position-2nd</b></p>
-
 <a href="/research"><div class="color-button">Dissertation</div></a>
 <a href="https://www.eastdelta.edu.bd/"><div class="color-button">Website</div></a>
 <br>
 
-<div style="line-height:1.2">
+<div style="line-height:1.2 !important">
     <div style="display:inline-block; width: 77%">
         <h2 style="font-weight:bold">Asian University for Women</h2>
         <h3 style="color:grey; font-weight:bold">Bachelors of Arts in Economics, Minor in Mathematics</h3>
@@ -36,7 +35,7 @@ Recipient of 91% IKEA Foundation scholarship</b></p>
 <br>
 
 
-<div style="line-height:1.2">
+<div style="line-height:1.2 !important">
     <div style="display:inline-block; width: 77%">
         <h2 style="font-weight:bold">HBX: Harvard Business School</h2>
         <h3 style="color:grey; font-weight:bold">CORe: Credential of Readiness</h3>
@@ -55,7 +54,6 @@ Recipient of 91% IKEA Foundation scholarship</b></p>
 
 <b style="font-size:1.8em">Relevant Courses</b>
 <hr>
-<br>
 
 <b style="font-size:1.3em">Mathematics Courses</b>
 <br>
