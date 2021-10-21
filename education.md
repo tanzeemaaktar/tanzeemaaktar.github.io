@@ -48,9 +48,10 @@ Recipient of 91% IKEA Foundation scholarship</b></p>
     </div>
 </div>
 <p><b>Grade: Pass</b></p>
-    <p><b>Economics for Managers:</b> Demand, supplier cost, market competition in the context of growing online retailer, an events ticket broker, a multinational publishing company</p>
-    <p><b>Financial Accounting:</b> US GAAP and IFRS accounting methods, case studies included companies like Morgan Stanley, Metropolis Healthcare etc</p>
-    <p><b>Business Analytics:</b>  A/B testing, sampling to check warehouse inventory, predicting sales, forecasting staffing needs</p>
+<p><b>Economics for Managers:</b> Demand, supplier cost, market competition in the context of growing online retailer, an events ticket broker, a multinational publishing company</p>
+<p><b>Financial Accounting:</b> US GAAP and IFRS accounting methods, case studies included companies like Morgan Stanley, Metropolis Healthcare etc</p>
+<p><b>Business Analytics:</b>  A/B testing, sampling to check warehouse inventory, predicting sales, forecasting staffing needs</p>
+
 <a href="https://online.hbs.edu/courses/core/?c1=GAW_SE_NW&source=INTL_BRND&cr2=search__-__nw__-__international__-__branded&kw=hbx_core_exm&cr5=547999763439&cr7=c&hsa_cam=1396947326&hsa_grp=57712618040&hsa_mt=e&hsa_src=g&hsa_ad=547999763439&hsa_acc={792-723-8641}&hsa_net=adwords&hsa_kw=hbx%20core&hsa_tgt=aud-951628315120:kwd-493465437512&hsa_ver=3&gclid=Cj0KCQjwwY-LBhD6ARIsACvT72PxqThAZ5BSILN0zbriuv2Ug8eKHMbTuKI7GXDrAP1cek0reHnB2icaAh_FEALw_wcB"><div class="color-button">Website</div></a>
 <br>
 
