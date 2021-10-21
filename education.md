@@ -6,12 +6,12 @@ title: Education
 
 <div>
     <div style="display:inline-block; width: 77%">
-        <h2 style="font-weight:bold; line-height:1.1">East Delta University</h2>
-        <h3 style="color:grey; font-weight:bold; line-height:1.1">Masters of Business Administration in Public Policy and Leadership</h3>
+        <h2 style="font-weight:bold; line-height:1">East Delta University</h2>
+        <h3 style="color:grey; font-weight:bold; line-height:1">Masters of Business Administration in Public Policy and Leadership</h3>
     </div>
     <div style="display:inline-block; vertical-align:top; float:right">
-        <h4 style="line-height:1.1">Chattogram, Bangladesh</h4>
-        <h4 style="line-height:1.1">Jul 2019 - Aug 2020</h4>
+        <h4 style="line-height:1">Chattogram, Bangladesh</h4>
+        <h4 style="line-height:1">Jul 2019 - Aug 2020</h4>
     </div>
 </div>
 <p><b>CGPA: 3.87/4.00, Class position-2nd</b></p>
@@ -21,12 +21,12 @@ title: Education
 
 <div>
     <div style="display:inline-block; width: 77%">
-        <h2 style="font-weight:bold; line-height:1.1">Asian University for Women</h2>
-        <h3 style="color:grey; font-weight:bold; line-height:1.1">Bachelors of Arts in Economics, Minor in Mathematics</h3>
+        <h2 style="font-weight:bold; line-height:1">Asian University for Women</h2>
+        <h3 style="color:grey; font-weight:bold; line-height:1">Bachelors of Arts in Economics, Minor in Mathematics</h3>
     </div>
     <div style="display:inline-block; vertical-align:top; float:right">
-        <h4 style="line-height:1.1">Chattogram, Bangladesh</h4>
-        <h4 style="line-height:1.1">Aug 2014 - May 2018</h4>
+        <h4 style="line-height:1">Chattogram, Bangladesh</h4>
+        <h4 style="line-height:1">Aug 2014 - May 2018</h4>
     </div>
 </div>
 <p><b>CGPA: 3.85/4.30 (magna cum laude) <br> 
@@ -37,12 +37,12 @@ Recipient of 91% IKEA Foundation scholarship</b></p>
 
 <div style="line-height:1.2 !important">
     <div style="display:inline-block; width: 77%">
-        <h2 style="font-weight:bold; line-height:1.1">HBX: Harvard Business School</h2>
-        <h3 style="color:grey; font-weight:bold; line-height:1.1">CORe: Credential of Readiness</h3>
+        <h2 style="font-weight:bold; line-height:1">HBX: Harvard Business School</h2>
+        <h3 style="color:grey; font-weight:bold; line-height:1">CORe: Credential of Readiness</h3>
     </div>
     <div style="display:inline-block; vertical-align:top; float:right">
-        <h4 style="line-height:1.1">Chattogram, Bangladesh</h4>
-        <h4 style="line-height:1.1">Jul 2017 - Sep 2017</h4>
+        <h4 style="line-height:1">Chattogram, Bangladesh</h4>
+        <h4 style="line-height:1">Jul 2017 - Sep 2017</h4>
     </div>
 </div>
 <p><b>Economics for Managers:</b> Demand, supplier cost, market competition in the context of growing online retailer, an events ticket broker, a multinational publishing company <br>

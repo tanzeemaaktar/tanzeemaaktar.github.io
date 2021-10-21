@@ -4,28 +4,26 @@ permalink: /research/
 title: Research
 ---
 
-<h2>Thesis (Working Paper)</h2>
+<h2 style="font-weight:bold;">Thesis (Working Paper)</h2>
 <hr>
 
-
 <h2>Explore Customers’ Purchase Decisions through Trust Factors in the E-commerce Sector of Bangladesh: Mediating Role of Intention to Purchase (2020)</h2>
-<h3>East Delta University<h3>
+<h3>East Delta University</h3>
 <ul style="list-style-type:square">
 	<li>Designed questionnaire to collect primary data from 400 e-commerce users in Bangladesh to explore four trust factors and the purchase decisions of the customers</li>
 	<li>Extended  theoretical model named Technology Acceptance Model (TAM) and analyzed quantitative data using SPSS and PLS-SEM softwares</li>
 </ul>
-<a href=""><div class="color-button">report</div></a>
+<a href="https://drive.google.com/file/d/1sEnZACcb0K12AtVqMmysDL-tC_isAt25/view?usp=sharing"><div class="color-button">Dissertation</div></a>
 <br>
 
-<h2>Research Activities for Master's Coursework</h2>
+<h2 style="font-weight:bold;">Research Activities for Master's Coursework</h2>
 <hr>
 <h2>Impact of FDI and Economic Growth: An Analysis of Bangladesh (Oct 2019)</h2>
 <ul style="list-style-type:square">
 	<li>Finding: there is a positive impact of FDI on the economic growth of Bangladesh</li>
 	<li>Policy Recommendations: Reducing technological gap between host and foreign countries, promote export-oriented economy, develop infrastructure and human capital of the recipient countries</li>
 </ul>
-<a href=""><div class="color-button">report</div></a>
-<br>
+<a href="https://drive.google.com/file/d/1GJLCXD8ti3sQSp5YChBEsKEef8zy9TlC/view?usp=sharing"><div class="color-button">Report</div></a><br>
 
 
 <h2>Reduce Unemployment by Intervention: A Public Policy Debate (2020)</h2>
@@ -63,7 +61,7 @@ title: Research
 <a href=""><div class="color-button">report</div></a>
 <br>
 
-<h2> Undergrad Research for Coursework</h2>
+<h2 style="font-weight:bold;"> Undergrad Research for Coursework</h2>
 <hr>
 
 
