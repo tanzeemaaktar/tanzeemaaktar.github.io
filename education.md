@@ -52,9 +52,11 @@ Recipient of 91% IKEA Foundation scholarship</b></p>
 <a href="https://online.hbs.edu/courses/core/?c1=GAW_SE_NW&source=INTL_BRND&cr2=search__-__nw__-__international__-__branded&kw=hbx_core_exm&cr5=547999763439&cr7=c&hsa_cam=1396947326&hsa_grp=57712618040&hsa_mt=e&hsa_src=g&hsa_ad=547999763439&hsa_acc={792-723-8641}&hsa_net=adwords&hsa_kw=hbx%20core&hsa_tgt=aud-951628315120:kwd-493465437512&hsa_ver=3&gclid=Cj0KCQjwwY-LBhD6ARIsACvT72PxqThAZ5BSILN0zbriuv2Ug8eKHMbTuKI7GXDrAP1cek0reHnB2icaAh_FEALw_wcB"><div class="color-button">Website</div></a>
 <br>
 
-# Relevant Courses
 
-## Mathematics Courses
+<b style="font-size:1.8em">Relevant Courses</b>
+<hr>
+
+<b style="font-size:1.3em">Mathematics Courses</b>
 
 Calculus I <b>&nbsp;&middot;&nbsp;</b> 
 Calculus II <b>&nbsp;&middot;&nbsp;</b> 
@@ -63,7 +65,7 @@ Differential Equation <b>&nbsp;&middot;&nbsp;</b>
 Mathematical Programming <b>&nbsp;&middot;&nbsp;</b> 
 Probability and Statistics
 
-## Economics Courses
+<b style="font-size:1.3em">Economics Courses</b>
 
 Intermediate Micro <b>&nbsp;&middot;&nbsp;</b> 
 Intermediate Macro <b>&nbsp;&middot;&nbsp;</b> 
@@ -74,11 +76,12 @@ Environmental Econ <b>&nbsp;&middot;&nbsp;</b>
 Economics of Money, Banking & Financial Markets <b>&nbsp;&middot;&nbsp;</b> 
 Business Analytics <b>&nbsp;&middot;&nbsp;</b> 
 Financial Accounting
-## Development Courses
+
+<b style="font-size:1.3em">Development Courses</b>
 
 Introduction to Development Studies <b>&nbsp;&middot;&nbsp;</b> Theories and Practices of Development <b>&nbsp;&middot;&nbsp;</b> Gender Equality and Women’s Empowerment in Asia
 
-## Policy Courses
+<b style="font-size:1.3em">Policy Courses</b>
 
 Financial Decision Making in Public Sector <b>&nbsp;&middot;&nbsp;</b> 
 Political Economy of Development <b>&nbsp;&middot;&nbsp;</b> 
