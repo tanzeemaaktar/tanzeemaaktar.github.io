@@ -4,7 +4,7 @@ permalink: /projects/
 title: Projects
 ---
 
-<div style="margin-top:20px 0">
+<div style="margin:20px 0">
 	<b>Performance measurements of insurance companies in 2008</b>
 	<ul>
 		<li>Applied Data Envelopment Analysis (DEA) model using MATLAB to evaluate the relative efficiency of 25 property and casualty insurance companies (DMUs) in terms of total operating expenses, assets, debts, employee numbers, liabilities as inputs; market caps, net incomes, revenues, earnings per share as outputs</li>
@@ -13,7 +13,7 @@ title: Projects
 	<a href="https://drive.google.com/file/d/1GJLCXD8ti3sQSp5YChBEsKEef8zy9TlC/view?usp=sharing"><div class="color-button">Report</div></a>
 </div>
 
-<div style="margin-top:20px 0">
+<div style="margin:20px 0">
 	<b>Performance measurements of insurance companies in 2008</b>
 	<ul>
 		<li>Applied Data Envelopment Analysis (DEA) model using MATLAB to evaluate the relative efficiency of 25 property and casualty insurance companies (DMUs) in terms of total operating expenses, assets, debts, employee numbers, liabilities as inputs; market caps, net incomes, revenues, earnings per share as outputs</li>
@@ -44,7 +44,7 @@ title: Projects
 		<a href="https://drive.google.com/file/d/1isTr8Jl0fRVtS8zPvTTNkEF4mnjMaodK/view?usp=sharing"><div class="color-button">Report</div></a>
 </div>
 
-<div style="display:inline-block">
+<div style="display:inline-block; margin:20px 0">
 	<img style="width:32%" src="https://i.imgur.com/DZVrAtd.png" alt="research" />
 	<img style="width:32%" src="https://i.imgur.com/RVwjFcU.png" alt="research" />
 	<img style="width:32%" src="https://i.imgur.com/uzV7rX9.jpg" alt="research" />
