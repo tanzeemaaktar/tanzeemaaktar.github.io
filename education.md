@@ -29,7 +29,7 @@ title: Education
     </div>
     <p style="margin:0"><b>CGPA: 3.85/4.30 (magna cum laude) <br> 
     Recipient of 91% IKEA Foundation scholarship</b></p>
-    <a href="https://asian-university.org/"><div class="color-button">report</div></a>
+    <a href="https://asian-university.org/"><div class="color-button">Website</div></a>
 <div>
 
 <div style="margin:20px 0">

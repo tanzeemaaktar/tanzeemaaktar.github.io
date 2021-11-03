@@ -36,16 +36,15 @@ title: Work Experience
 		</ul>
 		<a href="https://www.rescue.org/country/bangladesh"><div class="color-button">Website</div></a>
 	</div>
-	<div style="display:inline-block; width: 55%; margin-left:15px">
+	<div style="display:inline-block; width: 55%; margin-left:15px; float:right">
 		<img src="https://i.imgur.com/CMdGERI.jpg" alt="research" />
-		<p style="text-align:center">Data Analysis</p>
 	</div>
 </div>
 
 <div style="display:inline-block; margin-top: 20px">
-	<img style="width:32%" src="https://i.imgur.com/yP8mNgR.png" alt="research" />
-	<img style="width:32%" src="https://i.imgur.com/SpxtS37.jpg" alt="research" />
-	<img style="width:32%" src="https://i.imgur.com/tfKStih.jpg" alt="research" />
+	<img style="width:33%" src="https://i.imgur.com/yP8mNgR.png" alt="research" />
+	<img style="width:33%" src="https://i.imgur.com/SpxtS37.jpg" alt="research" />
+	<img style="width:33%" src="https://i.imgur.com/tfKStih.jpg" alt="research" />
 </div>
 
 <div style="margin-top:30px">

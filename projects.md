@@ -5,12 +5,21 @@ title: Projects
 ---
 
 <div style="margin:20px 0">
-	<b>Performance measurements of insurance companies in 2008</b>
+	<b>The Economic Freedom Index</b>
 	<ul>
-		<li>Applied Data Envelopment Analysis (DEA) model using MATLAB to evaluate the relative efficiency of 25 property and casualty insurance companies (DMUs) in terms of total operating expenses, assets, debts, employee numbers, liabilities as inputs; market caps, net incomes, revenues, earnings per share as outputs</li>
-		<li>Improved the performances of 13 inefficient companies with DEA scores</li>
+		<li>Predicted economic freedom score by training and testing data using Linear Regression</li>
+		<li>Measured the impact of Regulatory efficiency indicators (business, labour and monetory freedom) separately on the 2019 scores for each country, business freedom has the highest impact</li>
 	</ul>
-	<a href="https://drive.google.com/file/d/1GJLCXD8ti3sQSp5YChBEsKEef8zy9TlC/view?usp=sharing"><div class="color-button">Report</div></a>
+	<a href="https://www.kaggle.com/lewisduncan93/the-economic-freedom-index"><div class="color-button">Dataset</div></a>
+</div>
+
+<div style="margin:20px 0">
+	<b>Retail Analysis with Walmart Data</b>
+	<ul>
+		<li>Used Linear Regression and Random Forest Regressor to forecast weekly sales</li>
+		<li>Used entropy calculation to determine if temparature has any impact on weekly sales</li>
+	</ul>
+	<a href="https://www.kaggle.com/aditya6196/retail-analysis-with-walmart-data"><div class="color-button">Dataset</div></a>
 </div>
 
 <div style="margin:20px 0">

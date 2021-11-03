@@ -8,8 +8,20 @@ permalink: /about/
 
 Welcome to my website!
 
-Currently working as a Lecturer, I am looking for
+I am Tanzeema Aktar Ruhi, currently a Lecturer at East Delta University of Bangladesh. You can know more about my experiences [here](/experience/)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+From my [education](/education/), you can see that my background is in Economics, but I am also keen on learning more about data science applications. Merging these two interests, I have always been fascinated about applying different machine learning algorithms and NLP to solve macro and micro level economic problems. As I didn't have any formal background in DS, I self-studied about the basics and worked on two small [projects](/projects/) to express my interest.
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
+### Research Interest
+
+#### Economics
+
+- Development Econ
+- Labour Econ
+- Econometrics
+- Financial Econ
+
+#### Data Science
+
+- ML
+- NLP
