@@ -23,5 +23,5 @@ From my [education](/education/), you can see that my background is in Economics
 
 #### Data Science
 
-- ML
+- Machine Learning
 - NLP
